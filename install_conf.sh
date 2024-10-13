@@ -14,3 +14,4 @@ fi
 
 rm -rf $CONF_DIR
 cp -r . $CONF_DIR
+rm -f $CONF_DIR/install_conf.sh
