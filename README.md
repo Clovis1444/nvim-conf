@@ -1,6 +1,6 @@
 # About
 
-This is my nvim config for NVIM v0.9.5.
+This is my nvim config for [NVIM v0.9.5](https://github.com/neovim/neovim/releases/tag/v0.9.5).
 
 # Install(Linux)
 
