@@ -6,8 +6,10 @@ This is my nvim config.
 
 1. `git clone https://github.com/Clovis1444/nvim-conf.git --depth 1 `
 2. `./nvim-conf/install_conf.sh`
-   > [!WARNING]  
-   > Your `~/.config/nvim` dir will be overwritten
+
+> [!WARNING]  
+> Your `~/.config/nvim` dir will be overwritten
+
 3. `rm -rf ./nvim-conf`
 
 # Source
