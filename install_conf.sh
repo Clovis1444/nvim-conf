@@ -13,4 +13,4 @@ if [ "$SCRIPT_DIR" = "$CONF_DIR" ]; then
 fi
 
 rm -rf $CONF_DIR
-cp . $CONF_DIR
+cp -r . $CONF_DIR
