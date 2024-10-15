@@ -2,6 +2,6 @@
 -- NVim v. 0.9.5
 
 require("config.lazy")
-require("vim-options")
-require("preup")
-require("mapping")
+require("config.vim-options")
+require("config.preup")
+require("config.mapping")
