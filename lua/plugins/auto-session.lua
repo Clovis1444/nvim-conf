@@ -6,8 +6,8 @@ return {
 			suppressed_dirs = { "~/", "~/dev", "~/Downloads", "/" },
 			-- Execute all startup command here
 			post_restore_cmds = {
-				-- Open Neotree
-				":Neotree",
+				-- Open Neotree without focus
+				":Neotree show",
 			},
 		})
 	end,
