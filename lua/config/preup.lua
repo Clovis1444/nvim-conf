@@ -1,4 +1,2 @@
--- This module contains all commands that should be executed on each startup
-
--- Open neo-tree
-vim.cmd(":Neotree")
+-- This module contains some commands that should be executed on each startup
+-- Note: some commands may conflict with "auto-session" plugin, so it is recommended to execute ALL command from config in auto-session.lua
